@@ -1,7 +1,6 @@
 Ciberseguridad Avanzada
 
 Crypto-vault bdIVISION_v1.0
-Por Anónimo · 14 de febrero de 2026
 
 Criptobóveda de grado militar, versiones compatibles para Windows y Linux (Debian-Ubuntu)
 
