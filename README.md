@@ -5,7 +5,7 @@ Crypto-vault bdIVISION_v1.0
 Criptobóveda de grado militar, versiones compatibles para Windows y Linux (Debian-Ubuntu)
 
  
-bdIVISION: Cómo construir tu propia "Criptobóveda" de grado militar en el bolsillo
+bdIVISION: Cómo construir tu propia "Criptobóveda" de grado profesional en el bolsillo
  
 
 Vivimos en la era de la nube, pero la realidad es cruda: "la nube" es solo el ordenador de otra persona. Si guardas tus documentos más sensibles —claves privadas, contratos, fotos personales o secretos comerciales— en servicios de terceros, no eres su dueño; solo eres un inquilino.
